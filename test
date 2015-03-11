@@ -1,0 +1,11 @@
+def add100(n):
+	n+=100
+	return n
+
+def sub100(n):
+	n-=100
+	return n
+
+def mul100(n):
+	n/=100
+	return n
